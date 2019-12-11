@@ -1,0 +1,2 @@
+include ':app', ':layouttype', ':clickbuttons', ':clickbuttons2', ':clickbutton'
+rootProject.name='LabLesson1'
